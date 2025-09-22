@@ -13,7 +13,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Checkout pages
+      - name: Checkout pages2
         uses: actions/checkout@v4
         with:
           repository: jetbrains-qodana/agents-verification-results
